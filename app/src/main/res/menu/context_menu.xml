@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/markComplete"
+        android:title="Mark as Complete" />
+    <item
+        android:id="@+id/deleteTask"
+        android:title="Delete Task" />
+</menu>
